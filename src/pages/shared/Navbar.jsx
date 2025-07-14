@@ -19,6 +19,8 @@ const Navbar = () => {
         <li> <NavLink to="/signin">Login</NavLink> </li>
         <li> <NavLink to="/register">Register</NavLink> </li>
         <li> <NavLink to="/myApplications">My Applications</NavLink> </li>
+        <li> <NavLink to="/addJob">Add Job</NavLink> </li>
+        <li> <NavLink to="/myPostedJobs">My Posted Jobs</NavLink> </li>
 
     </>
     return (
